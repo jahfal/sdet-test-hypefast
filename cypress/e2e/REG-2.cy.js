@@ -1,4 +1,4 @@
-describe("Test case REG-3", () => {
+describe("Test case REG-2", () => {
   beforeEach(() => {
     cy.visit(
       "https://dashboard.melaka.app/register"
